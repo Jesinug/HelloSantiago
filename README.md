@@ -1,2 +1,0 @@
-# HelloSantiago
-Created with CodeSandbox
